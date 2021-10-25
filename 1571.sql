@@ -7,7 +7,7 @@
 
 
 #step2 
-
+/*
 select Warehouse.name as warehouse_name,Warehouse.units*size_table.size as volume
 from Warehouse
 join 
