@@ -1,2 +1,2 @@
 # leetcode
-a repo for practices
+a repo for practicing codes in leetcode.
