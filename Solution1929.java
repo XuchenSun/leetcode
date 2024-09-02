@@ -1,5 +1,5 @@
 //1929 Logic: use two loop to add int to the result array one by one
-class Solution {
+class Solution1929 {
     public int[] getConcatenation(int[] nums) {
         int[] result=new int[nums.length*2];
         

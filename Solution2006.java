@@ -1,5 +1,5 @@
 //2006 two loop
-class Solution {
+class Solution2006 {
     
     public int getValue(int x){
         if(x<=0){return -x;}

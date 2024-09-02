@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 // 4  three step 1 create array 2 sort array 3 get the median
-class solution4 {
+class Solution4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         
         
