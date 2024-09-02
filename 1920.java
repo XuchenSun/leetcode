@@ -1,4 +1,4 @@
-class Solution {
+class Solution1920 {
     public int[] buildArray(int[] nums) {
         int[] result=new int[nums.length];// define a new array according to input nums
         //System.out.print(nums.length);// check length

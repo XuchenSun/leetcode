@@ -1,5 +1,5 @@
 //1480
-class Solution {
+class Solution1480 {
     public int[] runningSum(int[] nums) {
         
         int[] result=new int[nums.length];// create a new instance of int array
