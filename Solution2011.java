@@ -1,5 +1,5 @@
 // 2011
-class Solution {
+class Solution2011 {
     public int finalValueAfterOperations(String[] operations) {
     
         
