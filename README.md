@@ -6,11 +6,13 @@ a repo for practicing codes in leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/XuchenSun/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/XuchenSun/leetcode/tree/master/0027-remove-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/XuchenSun/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/XuchenSun/leetcode/tree/master/0001-two-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/XuchenSun/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
