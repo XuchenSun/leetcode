@@ -23,4 +23,16 @@ a repo for practicing codes in leetcode.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/XuchenSun/leetcode/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/XuchenSun/leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/XuchenSun/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/XuchenSun/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
