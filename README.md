@@ -14,10 +14,12 @@ a repo for practicing codes in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/XuchenSun/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XuchenSun/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/XuchenSun/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XuchenSun/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/XuchenSun/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Two Pointers
 |  |
@@ -35,4 +37,8 @@ a repo for practicing codes in leetcode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/XuchenSun/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XuchenSun/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
